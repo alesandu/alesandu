@@ -25,9 +25,10 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=alesandu&theme=dark&hide_border=true&background=FFFFFF00"></a>
 
 ---
-
-
-  <a href="https://paypal.me/alesasu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="" /></a>
+<div align="center">
+<a href="https://paypal.me/alesasu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="alesasu.ù-coffe" /></a></img>
+</div>
+  
 </p>
 
 
