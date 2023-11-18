@@ -27,8 +27,8 @@
 ---
 
 
-  <!-- <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="" /></a>
-</p> -->
+  <a href="https://paypal.me/alesasu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="" /></a>
+</p>
 
 
 <!--
