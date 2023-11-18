@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-<a href="https://paypal.me/alesasu" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="alesasu.ù-coffe" /></a></img>
+<a href="https://paypal.me/alesasu" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="alesasu.ù-coffe" /></a></img>
 </div>
   
 </p>
