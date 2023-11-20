@@ -6,7 +6,7 @@
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="100">
 -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Ale;Welcome+to+my+profile!;Ace" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Ale;Welcome+to+my+profile!;" alt="Title"></img>
 </div>
 
 <br>
@@ -25,6 +25,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=alesandu&theme=dark&hide_border=true&background=FFFFFF00"></a>
 
 ---
+
+<!--
 <div align="center">
 <a href="https://paypal.me/alesasu" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="alesasu.ù-coffe" /></a></img>
 </div>
