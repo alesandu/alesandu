@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="#">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alesandu&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alesandu&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=repodamettere">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alesandu&show_icons=true&count_private=true&cache_seconds=21600&theme=dark&hide_border=true&custom_title=Github&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alesandu&layout=compact&hide_border=true&theme=dark&size_weight=0.5&count_weight=0.5&bg_color=00000000&langs_count=10&custom_title=Wakapi">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=alesandu&theme=dark&hide_border=true&background=FFFFFF00"></a>
 
 ---
