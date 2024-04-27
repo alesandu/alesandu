@@ -12,8 +12,8 @@
 <br>
 
 - 🎓 I am currently graduating in **Computer Science** at the **University of Rome TorVergata**
-- 🛠 I am currently learning **C**
-- 🐿 I'm a **Linux** newbie
+- 🛠 I am currently learning **Data Strucutres**
+- 🐿 I'm a **Linux** newbie (Arch)
 - ツ Have fun!
 
 ---
