@@ -14,7 +14,7 @@
 </p>
 
 - 🎓 I am currently graduating in **Computer Science** at the **University of Rome TorVergata**
-- 🛠 
+- 🛠 Interested in AI
 - 🐿 I use **Arch** btw!
 
 ---
