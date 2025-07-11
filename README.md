@@ -14,16 +14,15 @@
 </p>
 
 - 🎓 I am currently graduating in **Computer Science** at the **University of Rome TorVergata**
-- 🛠 I am currently learning **Algorithms and Data Structures**
-- 🐿 I'm a **Linux** newbie (Arch)
-- ツ Have fun!
+- 🛠 
+- 🐿 I use **Arch** btw!
 
 ---
 
 <p align="center">
   <a href="#">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alesandu&show_icons=true&count_private=true&cache_seconds=21600&theme=dark&hide_border=true&custom_title=Github&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alesandu&layout=compact&hide_border=true&theme=dark&size_weight=0.5&count_weight=0.5&bg_color=00000000&langs_count=10&custom_title=Wakapi">
+  <img src ="https://github-readme-stats.vercel.app/api?username=alesandu&show_icons=true&count_private=true&cache_seconds=21600&theme=dark&hide_border=true&custom_title=Github&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alesandu&layout=compact&hide_border=true&theme=dark&size_weight=0.5&count_weight=0.5&bg_color=00000000&langs_count=10&custom_title=Wakapi">
 <!--  <img src ="https://github-readme-streak-stats.herokuapp.com?user=alesandu&theme=dark&hide_border=true&background=FFFFFF00"> -->
    </a>
   </p>
