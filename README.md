@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am currently pursuing a **Master's degree in Computer Science** at the **University of Rome Tor Vergata**.
-- 🛠️ Deeply interested in **Artificial Intelligence**.
+- 🛠️ Deeply interested in **Artificial Intelligence** and **Machine Learning**.
 - 🐧 I use **Arch** btw!
 
 ---
